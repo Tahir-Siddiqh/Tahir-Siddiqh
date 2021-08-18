@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tahir-Siddiqh
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Alteryx
-- 💵
+- 💵 I'm currently working at Amazon as Process Analyst
 - 💞️ I’m looking to collaborate on all types of projects
 - 📫 How to reach me tahirsiddiqh@gmail.com
 
