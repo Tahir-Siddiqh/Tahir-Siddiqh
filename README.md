@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tahir-Siddiqh
 - 👀 I’m interested in Data Analytics and Data Science
 - 🌱 I’m currently learning Machine Learning
-- 💵 I'm currently working at Uber as Data Analyst
+- 💵 I'm currently working at Salesforce as Data Scientist
 - 💞️ I’m looking to collaborate on all types of projects
 - 📫 How to reach me tahirsiddiqh@gmail.com
 
